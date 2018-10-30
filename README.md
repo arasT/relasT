@@ -18,7 +18,7 @@ Downloads
 License
 ----
 
-License varies according to the project. Please check their source repository.
+License varies according to the project. Please check their source repository [here](https://github.com/arasT].
 
 Contributing
 ----

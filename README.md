@@ -11,8 +11,8 @@ You can find here all binaries release for created app from arasT github depot.
 Downloads
 ---
 
-1. UsedSpace: console user interface to check space used by files and folders into your disk. Developped in Go.
-   * [Linux x64](https://github.com/arasT/relasT/raw/master/Go/UsedSpace/Linux/x64/UsedSpace-Linux-x64-0.1.zip) (compiled in Ubuntu) 
+1. [UsedSpace](https://github.com/arasT/UsedSpace): console user interface to check space used by files and folders into your disk. Developped in Go.
+   * [Linux x64](https://github.com/arasT/relasT/raw/master/Go/UsedSpace/Linux/x64/UsedSpace-Linux-x64-0.1.zip) (compiled on Ubuntu) 
    * [Mac x64](https://github.com/arasT/relasT/raw/master/Go/UsedSpace/Mac/x64/UsedSpace-Mac-x64-0.1.zip)  
 
 License
